@@ -1,6 +1,6 @@
 How we do it *at ByteJoy*.
 
-Welcome, this will help you get up to speed and productive quickly. It is a living work-in-progress and aims to help you get you familiar with the tools, workflow, process, and life at ByteJoy. 
+Welcome, this will help you get up to speed and productive quickly. It is a living work-in-progress and aims to help you get familiar with the tools, workflow, process, and life at ByteJoy. 
 
 **If you observe any mistakes this is your chance to contribute early and submit a pull request. Those coming behind you will greatly appreciate your efforts!**
 
