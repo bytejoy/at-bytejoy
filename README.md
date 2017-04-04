@@ -20,6 +20,8 @@ We love [ScreenFlow](http://www.telestream.net/screenflow/) and use it all the t
 
 ## Workflow and Process
 
+#### Update: We're working on our own project management tool. It's still early but check back soon for more details!
+
 We use Trello to keep track of our projects. We generally spin up a new Trello board for each new project. We also have general boards for onboarding, team coordination, etc. You should have received invites to the appropriate boards.
 
 Most people run Trello as a macOS application using [trello-macos-install](https://github.com/bytejoyhq/trello-macos-install).
@@ -56,7 +58,7 @@ By far the most popular machine is the [MacBookPro](http://www.apple.com/macbook
 
 Of course this depends heavily on the hardware you've chosen but here is the most used at ByteJoy.
 
-Number one is [macOS](http://www.apple.com/macos) followed by [kubuntu](http://kubuntu.org/), [archlinux](https://www.archlinux.org/), and [ubuntu](http://www.ubuntu.com/desktop) in that order.
+Number one is [macOS](http://www.apple.com/macos) followed by [archlinux](https://www.archlinux.org/) and [ubuntu](http://www.ubuntu.com/desktop).
 
 ### Dev Tools
 
@@ -64,7 +66,7 @@ The list of dev tools changes rapidly but here are the most commonly used tools.
 
 **Terminals**
 
-The most common configuration is [iTerm2](https://www.iterm2.com/) with [tmate](https://tmate.io/).
+Mostly [Hyper](https://hyper.is/) but some diehard [iTerm2](https://www.iterm2.com/) fans.
 
 **Editors**
 
@@ -80,10 +82,10 @@ We actively avoid Xamarin and prefer to work natively when possible. To that end
 
 ## Insurance, 401(k), PTO, Team Directory, FSA, HSA, and more!
 
-We use [Zenefits](https://www.zenefits.com) to manage our HR-related stuff. You can download their mobile app to get started. You'll find credentials in your welcome package.
+We use ~[Zenefits](https://www.zenefits.com)~ [Gusto](https://gusto.com/) to manage our HR-related stuff. You'll find a login link in your welcome package.
 
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-at-bytejoy is © 2016 ByteJoy, Ltd. The names and logos for ByteJoy are trademarks of ByteJoy, Ltd.
+at-bytejoy is © 2017 ByteJoy, Ltd. The names and logos for ByteJoy are trademarks of ByteJoy, Ltd.
