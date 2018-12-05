@@ -8,11 +8,11 @@ Welcome, this will help you get up to speed and productive quickly. It is a livi
 
 ## Video Conference
 
-We currently use [MeetSpace](http://www.meetspaceapp.com/) for video conference. We also recommend [shush](http://mizage.com/shush/).
+We currently use [Zoom](https://zoom.us) for video conferences, company meetings, demos, and presentations.
 
 ## Screen Share
 
-We use multiple tools depending on the purpose. We use [ScreenHero]() for pair programming or sessions where people need to share control of the screen. For company meetings, demos, or presentations we use [MeetSpace](http://www.meetspaceapp.com/).
+We use multiple tools depending on the purpose. We use [Zoom](https://zoom.us) for pair programming or sessions where people need to share control of the screen. We also recommend [VS Live Share](https://visualstudio.microsoft.com/services/live-share/) for Visual Studio or VSCode. Honorable mention to [Meet](https://meet.google.com) by Google.
 
 ## Screen Recording
 
@@ -20,15 +20,15 @@ We love [ScreenFlow](http://www.telestream.net/screenflow/) and use it all the t
 
 ## Workflow and Process
 
-#### Update: We're working on our own project management tool. It's still early but check back soon for more details!
+#### Update: We're working on our own project management tool. Check with [@anna](https://github.com/annaminton) for details on how to get setup in the beta.
 
-We use Trello to keep track of our projects. We generally spin up a new Trello board for each new project. We also have general boards for onboarding, team coordination, etc. You should have received invites to the appropriate boards.
+We use [Asana](https://asana.com) to keep track of our projects. We have projects for onboarding, team coordination, etc. You should have received invites to the appropriate projects.
 
 Most people run Trello as a macOS application using [trello-macos-install](https://github.com/bytejoyhq/trello-macos-install).
 
 ## CI
 
-We use [Codeship](https://codeship.com/) for all Docker based CI and [AppVeyor](https://www.appveyor.com/) for Windows-specific projects. You'll find credentials in your welcome package.
+We use [Codeship](https://codeship.com/) for all Docker based CI/CD and [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) for Windows-specific projects. You'll find credentials in your welcome package.
 
 ## Email
 
@@ -70,7 +70,7 @@ Mostly [Hyper](https://hyper.is/) but some diehard [iTerm2](https://www.iterm2.c
 
 **Editors**
 
-Most popular is [spacemacs](https://github.com/syl20bnr/spacemacs/) with [Alchemist](http://www.alchemist-elixir.org/) followed by [atom](http://atom.io) with [atom-elixir](https://github.com/msaraiva/atom-elixir).
+Most popular is [spacemacs](https://github.com/syl20bnr/spacemacs/) with [Alchemist](http://www.alchemist-elixir.org/) followed by [VSCode](https://code.visualstudio.com) with [vscode-elixir](https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir).
 
 We actively avoid Xamarin and prefer to work natively when possible. To that end we provide platform-specific tools such as Visual Studio, XCode, Android Studio, etc. You can find information about obtaining a license in your welcome package.
 
@@ -88,4 +88,4 @@ We use ~[Zenefits](https://www.zenefits.com)~ [Gusto](https://gusto.com/) to man
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-at-bytejoy is © 2017 ByteJoy, Ltd. The names and logos for ByteJoy are trademarks of ByteJoy, Ltd.
+at-bytejoy is © 2018 ByteJoy, Ltd. The names and logos for ByteJoy are trademarks of ByteJoy, Ltd.
